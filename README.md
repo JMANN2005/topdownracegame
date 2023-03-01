@@ -1,4 +1,4 @@
 # topdownracegame
-my race game
+my race game.
 arrow keys for one car
 wasd for the other
